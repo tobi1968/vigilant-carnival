@@ -1,4 +1,4 @@
-#Update local repos hallloooo
+#Update local repos
 sudo apt update && sudo apt upgrade
 
 #Install virtualbox
